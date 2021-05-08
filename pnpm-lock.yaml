@@ -1,11 +1,13 @@
 lockfileVersion: 5.3
 
 specifiers:
+  netlify-identity-widget: ^1.9.1
   next: 10.1.2
   react: 17.0.2
   react-dom: 17.0.2
 
 dependencies:
+  netlify-identity-widget: 1.9.1
   next: 10.1.2_react-dom@17.0.2+react@17.0.2
   react: 17.0.2
   react-dom: 17.0.2_react@17.0.2
@@ -1022,6 +1024,10 @@ packages:
     resolution: {integrity: sha512-6iM8R99ze45ivyH8vybJ7X0yekIcPf5GgLV5K0ENCbmRcaRIDoj37BC8iLEmaaBfqqb8enuZ5p0uhY+lVAbAcA==}
     dependencies:
       querystring: 0.2.1
+    dev: false
+
+  /netlify-identity-widget/1.9.1:
+    resolution: {integrity: sha512-9oIWjwUSdRk3SkREcZNjZaVuDDx9T/wSIXZNQsQeY4qoXic/FiXVEGgu2RU3IuA4OI3L2652xY1o+PpS03Ugaw==}
     dev: false
 
   /next/10.1.2_react-dom@17.0.2+react@17.0.2:
